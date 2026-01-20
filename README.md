@@ -20,6 +20,7 @@ It automatically detects the face from an input image, crops it properly, resize
 
 ## 📂 Project Structure
 
+Passport-Size-Photo-Scanner
 ├── passport_photo.py
 ├── haarcascade_frontalface_default.xml
 └── person1.png
